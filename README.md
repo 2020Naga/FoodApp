@@ -4,6 +4,6 @@ FoodApp is a full-stack web application designed to streamline the food delivery
 ![Screenshot 2025-02-13 212917](https://github.com/user-attachments/assets/adc72485-7556-44da-b98c-e99c9a020d9e)
 # Installation and Setup ⚙️
 Prerequisites:
-Java Development Kit (JDK) (Version 11+)
-Apache Tomcat (Version 9+)
-MySQL Server
+   Java Development Kit (JDK) (Version 11+)
+   Apache Tomcat (Version 9+)
+   MySQL Server
